@@ -60,7 +60,7 @@ title: Brigham Young's Resume
 ### Private Wealth Management Intern
 
 `January 2019 - January 2020`
-**LPL Financial**, Rexburg, ID
+**LPL Financial**, Rexburg,
 
 - Increased office efficiency by utilizing various computer skills, including Excel (VBA) and R
 - Created strategic financial plans and assisted in managing portfolios for a firm with $100 million AUM
