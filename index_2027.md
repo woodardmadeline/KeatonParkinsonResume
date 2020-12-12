@@ -1,6 +1,6 @@
 ---
-layout: resume
-title: Brigham Young's Resume
+layout: Resume
+title: Keaton Parkinson's Resume
 ---
 
 # Keaton Parkinson
@@ -9,12 +9,13 @@ title: Brigham Young's Resume
 <a href="parkinsonk5@outlook.com">parkinsonk5@outlook.com</a>
 | <a href="https://github.com/parkinsonk">Keaton Parkinson Github</a>
 </div>
+possibly add your linked-in here as well
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`Expected December 2020`
+`Expected Graduation Date: December 2020`
 **Brigham Young University - Idaho**, Rexburg, ID
 
 - Cumulative GPA: 3.9/4.0
